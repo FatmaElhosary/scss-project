@@ -20,6 +20,11 @@ li {
   list-style: none;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .wrapper {
   width: 100%;
   max-width: 1200px;
